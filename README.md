@@ -1,6 +1,6 @@
 #Sobre mim
 
-- 👋 Hi, I’m @walterprimor
+- 👋 Olá, eu sou @walterprimor
 - 👀 Sou Professor de Pensamento Computacional, Programação e Tecnologia Computacional e Games e Programação.
 - 🌱 Atualmente estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas.
 - 💞️ Eu estou procurando me aprofundar em linguagens de programação.
